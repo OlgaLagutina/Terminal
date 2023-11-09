@@ -72,7 +72,7 @@ cd ..
 cat tf_3.txt
 
 19. Найти путь к файлу tf_4.txt
-find -name "tf_4.txt"
+find -name tf_4.txt
 
 20. Отчистить файл tf_4.txt от содержимого без удаления самого файла.
 > tf_4.txt
